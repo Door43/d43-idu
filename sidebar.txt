@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[idu:home|Door43 (idu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-idu|d43-idu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-idu/archive/master.zip|d43-idu.zip]]
+
+**Recent Changes**
+{{changes>ns = idu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/idu|Ethnologue data]]
+
